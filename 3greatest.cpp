@@ -5,7 +5,7 @@ int greater(int,int);
 int main()
 {
 	int a,b,c,p;
-	printf("Enter the numbersxxxxxxxxxxyyyyyyy:");
+	printf("Enter the numbersxxxxxxxxxxyyyyyyyzzzz:");
 	scanf("%d%d%d",&a,&b,&c);
 	p=greater(a,b);
 	if(p>c)
